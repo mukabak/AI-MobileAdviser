@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Verbot\Verbot5Library\bin\Debug\Verbot5Library.dll
+C:\Users\Admin\Desktop\Verbot\Verbot5Library\bin\Debug\Verbot5Library.pdb
+C:\Users\Admin\Desktop\Verbot\Verbot5Library\obj\Debug\Verbot5Library.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Verbot\Verbot5Library\obj\Debug\Verbot5Library.dll
+C:\Users\Admin\Desktop\Verbot\Verbot5Library\obj\Debug\Verbot5Library.pdb
+C:\Users\Admin\Desktop\Verbot\Mobile_Adviser\Verbot5Library\bin\Debug\Verbot5Library.dll
+C:\Users\Admin\Desktop\Verbot\Mobile_Adviser\Verbot5Library\bin\Debug\Verbot5Library.pdb
+C:\Users\Admin\Desktop\Verbot\Mobile_Adviser\Verbot5Library\obj\Debug\Verbot5Library.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Verbot\Mobile_Adviser\Verbot5Library\obj\Debug\Verbot5Library.dll
+C:\Users\Admin\Desktop\Verbot\Mobile_Adviser\Verbot5Library\obj\Debug\Verbot5Library.pdb

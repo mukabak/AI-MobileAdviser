@@ -1,0 +1,70 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerbotWindowsApplicationSample", "VerbotWindowsApplicationSample\VerbotWindowsApplicationSample.csproj", "{7E8E403D-519A-4EA7-B2DB-A7C223BD42C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceFiles", "ResourceFiles\ResourceFiles.csproj", "{5B823982-5910-45CF-8D9B-F3D1599021BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerbotConsoleApplication", "VerbotConsoleApplication\VerbotConsoleApplication.csproj", "{9E99BB2A-E25B-4E6C-9F3C-12AE81068313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbot5Library", "Verbot5Library\Verbot5Library.csproj", "{4D25B13B-4D67-433F-9181-BF5FDFA931B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerbotInteropLibrary", "VerbotInteropLibrary\VerbotInteropLibrary.csproj", "{79F27019-6C0B-4488-9E56-7114542A1E2D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccProjectName0 = svn://conversive-bes/OldCode/Products/VerbotSDK
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:TamTam\u0020SVN\u0020SCC
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = VerbotWindowsApplicationSample\\VerbotWindowsApplicationSample.csproj
+		SccProjectName1 = svn://conversive-bes/OldCode/Products/VerbotSDK/VerbotWindowsApplicationSample
+		SccLocalPath1 = VerbotWindowsApplicationSample
+		CanCheckoutShared = true
+		SccProjectUniqueName2 = ResourceFiles\\ResourceFiles.csproj
+		SccProjectName2 = svn://conversive-bes/OldCode/Products/VerbotSDK/ResourceFiles
+		SccLocalPath2 = ResourceFiles
+		CanCheckoutShared = true
+		SccProjectUniqueName3 = VerbotConsoleApplication\\VerbotConsoleApplication.csproj
+		SccProjectName3 = svn://conversive-bes/OldCode/Products/VerbotSDK/VerbotConsoleApplication
+		SccLocalPath3 = VerbotConsoleApplication
+		CanCheckoutShared = true
+		SccProjectUniqueName4 = Verbot5Library\\Verbot5Library.csproj
+		SccProjectName4 = svn://conversive-bes/OldCode/Products/VerbotSDK/Verbot5Library
+		SccLocalPath4 = Verbot5Library
+		CanCheckoutShared = true
+		SccProjectUniqueName5 = VerbotInteropLibrary\\VerbotInteropLibrary.csproj
+		SccLocalPath5 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection5 = VerbotInteropLibrary\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8E403D-519A-4EA7-B2DB-A7C223BD42C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E403D-519A-4EA7-B2DB-A7C223BD42C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E403D-519A-4EA7-B2DB-A7C223BD42C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E403D-519A-4EA7-B2DB-A7C223BD42C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B823982-5910-45CF-8D9B-F3D1599021BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B823982-5910-45CF-8D9B-F3D1599021BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B823982-5910-45CF-8D9B-F3D1599021BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B823982-5910-45CF-8D9B-F3D1599021BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E99BB2A-E25B-4E6C-9F3C-12AE81068313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E99BB2A-E25B-4E6C-9F3C-12AE81068313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E99BB2A-E25B-4E6C-9F3C-12AE81068313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E99BB2A-E25B-4E6C-9F3C-12AE81068313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D25B13B-4D67-433F-9181-BF5FDFA931B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D25B13B-4D67-433F-9181-BF5FDFA931B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D25B13B-4D67-433F-9181-BF5FDFA931B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D25B13B-4D67-433F-9181-BF5FDFA931B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F27019-6C0B-4488-9E56-7114542A1E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F27019-6C0B-4488-9E56-7114542A1E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F27019-6C0B-4488-9E56-7114542A1E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F27019-6C0B-4488-9E56-7114542A1E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SynonymGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Synonyms>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>57F70C6C7654C43A</Id>
+          <Text>Hello</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>373DA1C1E0CCAD2</Id>
+          <Text>Howdy</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>585B83802EEDD66E</Id>
+          <Text>hey</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>2F7B8FBC3B154724</Id>
+          <Text>Hi</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>A7386998C5ACC550</Id>
+          <Text>Yo</Text>
+        </Phrase>
+      </Phrases>
+      <Name>Hello</Name>
+      <Id>4912E3EE94032F42</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>97113128730BEFEE</Id>
+          <Text>Catch you later</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>2DD88D5C5A73422E</Id>
+          <Text>Hasta la vista</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>946E2D9CCC049058</Id>
+          <Text>Logging off</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>40D1290C3A8251C2</Id>
+          <Text>Good night</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>8610B9284172DFE</Id>
+          <Text>Goodnight</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>7C4292565CDBD8B8</Id>
+          <Text>got to go</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>FD318EF2C14576EE</Id>
+          <Text>farewell</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>749F91503E89C7E0</Id>
+          <Text>Gotta go</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3EA3DA7660DA890E</Id>
+          <Text>Goodbye</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>C09A0BCE75ED7294</Id>
+          <Text>See ya</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>ACEDC14A61017FE0</Id>
+          <Text>G'bye</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>292C39D05BA816B0</Id>
+          <Text>Later</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>4071E6407DEB65EC</Id>
+          <Text>gtg</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>B174AA82C75B5D7C</Id>
+          <Text>l8r</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>391EE56095B0C552</Id>
+          <Text>Cya</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>9BA6345CC6637BBC</Id>
+          <Text>Bye</Text>
+        </Phrase>
+      </Phrases>
+      <Name>Goodbye</Name>
+      <Id>7F6B04E0B6EFE86A</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>B0067602872A3F42</Id>
+          <Text>callsign</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>14640052E959DA88</Id>
+          <Text>nickname</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>7796D3B255757F0A</Id>
+          <Text>handle</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>8EF1D50C1E87D8A0</Id>
+          <Text>nick</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>258D1AA82224BC70</Id>
+          <Text>name</Text>
+        </Phrase>
+      </Phrases>
+      <Name>name</Name>
+      <Id>427AA7DAC119460A</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>167D5DA8AE57ED7E</Id>
+          <Text>Thank you</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>A7D9C2B0F191A154</Id>
+          <Text>Thanks</Text>
+        </Phrase>
+      </Phrases>
+      <Name>Thanks</Name>
+      <Id>73B5357ED502B03A</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>76681F46A219B1E2</Id>
+          <Text>okay</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>5E4A9F7AE223CF94</Id>
+          <Text>ok</Text>
+        </Phrase>
+      </Phrases>
+      <Name>ok</Name>
+      <Id>391EE56095B0C552</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>583B1B80FFD97AEA</Id>
+          <Text>it is</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>CD732D48ABB11F22</Id>
+          <Text>yeah</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>777F616EA294C194</Id>
+          <Text>i do</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>6598C396E8C1C584</Id>
+          <Text>sure</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>F34CD2C8EF6CE9D6</Id>
+          <Text>oui</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>BAE1BF88B4A037E8</Id>
+          <Text>yea</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>C6F7160C1C2361FA</Id>
+          <Text>yes</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3AEDAE94A7BFAEE8</Id>
+          <Text>si</Text>
+        </Phrase>
+      </Phrases>
+      <Name>yes</Name>
+      <Id>2DD88D5C5A73422E</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>5B97CF2A96B4EDAE</Id>
+          <Text>no way</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>583B1B80FFD97AEA</Id>
+          <Text>it is</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>777F616EA294C194</Id>
+          <Text>i do</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3695A524AB3A98B6</Id>
+          <Text>nope</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>E80C28C841A58174</Id>
+          <Text>non</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>89AF1F383C1381F0</Id>
+          <Text>not</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>59E81D0C616F8A88</Id>
+          <Text>no</Text>
+        </Phrase>
+      </Phrases>
+      <Name>no</Name>
+      <Id>946E2D9CCC049058</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>6826CD52F967CEC6</Id>
+          <Text>What is</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>FDCC409AAD0AF37E</Id>
+          <Text>What's</Text>
+        </Phrase>
+      </Phrases>
+      <Name>What is</Name>
+      <Id>141C8E3E278749DC</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>DE61E998515AAD4E</Id>
+          <Text>information</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>BD65659453CC650E</Id>
+          <Text>info</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>55B74C46F159C44</Id>
+          <Text>data</Text>
+        </Phrase>
+      </Phrases>
+      <Name>info</Name>
+      <Id>A5182E821ECEF92</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>981DC0645032BE98</Id>
+          <Text>What's new</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>E875E9A86E0CB5C8</Id>
+          <Text>What's up</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3FACC7F85D276C4E</Id>
+          <Text>What up</Text>
+        </Phrase>
+      </Phrases>
+      <Name>What up</Name>
+      <Id>5178EA3C78A867A4</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>160B0178FAB7F902</Id>
+          <Text>do you have any jokes</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>D4288B70578363DE</Id>
+          <Text>do you know any jokes</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>4F5E3302495D502E</Id>
+          <Text>how about a joke</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>12C98CCE8BFF9588</Id>
+          <Text>give me a joke</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>EFB0EAF0B04CBD52</Id>
+          <Text>tell me a joke</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>7594403A6A3AFC70</Id>
+          <Text>request joke</Text>
+        </Phrase>
+      </Phrases>
+      <Name>request joke</Name>
+      <Id>E1D8B4287C17B0E2</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>B65A93FACB26F302</Id>
+          <Text>it is</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>654078A2D46D1AA0</Id>
+          <Text>it's</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3E245DFE50D28938</Id>
+          <Text>its</Text>
+        </Phrase>
+      </Phrases>
+      <Name>it is</Name>
+      <Id>A6537FF835F76034</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>70EB26B8F59A0F68</Id>
+          <Text>you are</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>855B4F1214566402</Id>
+          <Text>you're</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>D0A52976A459CE8E</Id>
+          <Text>u r</Text>
+        </Phrase>
+      </Phrases>
+      <Name>you are</Name>
+      <Id>D3FE40E06786B854</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>992B40A471F73B8C</Id>
+          <Text>i am</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>F9A582545515904C</Id>
+          <Text>i'm</Text>
+        </Phrase>
+      </Phrases>
+      <Name>i am</Name>
+      <Id>C7B63402D5D0452</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>D364980C5F56D598</Id>
+          <Text>extraordinary</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>70CBEB64A7A7AAE2</Id>
+          <Text>exceptional</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>550A6D05295F348</Id>
+          <Text>remarkable</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>650ECF062CC9FCCA</Id>
+          <Text>wonderful</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>78D21AECF438286A</Id>
+          <Text>especial</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>562C8A88234C4CFA</Id>
+          <Text>unusual</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>BD2B68A6F71FE642</Id>
+          <Text>special</Text>
+        </Phrase>
+      </Phrases>
+      <Name>especial</Name>
+      <Id>216C9E86FAB4A4</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>5B86635A309F4318</Id>
+          <Text>let's do it</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>6B19EFAC8FEF5DBC</Id>
+          <Text>take quiz</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>D2F29FF45165AE90</Id>
+          <Text>let's go</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3F0DED08CA18263A</Id>
+          <Text>quiz me</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>5CCA27509BC5AF2</Id>
+          <Text>(yes)</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>27B268DE4F2CD452</Id>
+          <Text>quiz</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3FDBF532E1B74D2A</Id>
+          <Text>test</Text>
+        </Phrase>
+      </Phrases>
+      <Name>quiz</Name>
+      <Id>D621F762585CC64</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>FE8FC9AA8ADFAE2</Id>
+          <Text>break off</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>30376B9246C73440</Id>
+          <Text>be over</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>1F0DFE86C64E6E36</Id>
+          <Text>finish</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>6B3FD57C20306012</Id>
+          <Text>break</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>149C8A64255FE522</Id>
+          <Text>cease</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>FBB3135AE0C2ACB2</Id>
+          <Text>exit</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>FBCE16BAB4DD1CA4</Id>
+          <Text>halt</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>C920742AFD44FB72</Id>
+          <Text>stop</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>1313BAF8F0EA769E</Id>
+          <Text>end</Text>
+        </Phrase>
+      </Phrases>
+      <Name>stop</Name>
+      <Id>DC87596CDD847CDA</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>7CFCA5307D15207E</Id>
+          <Text>how come</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>61D1B43CDF85DB8E</Id>
+          <Text>why</Text>
+        </Phrase>
+      </Phrases>
+      <Name>why</Name>
+      <Id>8D02876419A3CA0E</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>7D1C4BD476620092</Id>
+          <Text>remember that</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>3A4513ECEA80339A</Id>
+          <Text>memorize that</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>D9FC22BCB8142BF8</Id>
+          <Text>memorize</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>202B24F8B6BD815E</Id>
+          <Text>remember</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>DF280B924A791F36</Id>
+          <Text>rem that</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>9E73915A73795422</Id>
+          <Text>rem</Text>
+        </Phrase>
+      </Phrases>
+      <Name>rem</Name>
+      <Id>5501FE4436706858</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>651BF83C14EC4152</Id>
+          <Text>Who is</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>BD3359C64C2A7F78</Id>
+          <Text>Who's</Text>
+        </Phrase>
+      </Phrases>
+      <Name>Who is</Name>
+      <Id>E1990798F95C3912</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>4E8E352E9A4CC044</Id>
+          <Text>is not</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>7DD79816B0436728</Id>
+          <Text>isn't</Text>
+        </Phrase>
+      </Phrases>
+      <Name>is not</Name>
+      <Id>B92C200C515876B8</Id>
+    </Synonym>
+    <Synonym xsi:type="Synonym">
+      <Phrases>
+        <Phrase xsi:type="Phrase">
+          <Id>18EF8C6463540D4</Id>
+          <Text>are not</Text>
+        </Phrase>
+        <Phrase xsi:type="Phrase">
+          <Id>19BFA85A12410BE0</Id>
+          <Text>aren't</Text>
+        </Phrase>
+      </Phrases>
+      <Name>are not</Name>
+      <Id>D421C0243A2F22E4</Id>
+    </Synonym>
+  </Synonyms>
+</SynonymGroup>

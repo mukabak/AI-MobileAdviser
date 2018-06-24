@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Verbot\Verbot5Engine\obj\Debug\Interop.HTTSLib.dll
+C:\Users\Admin\Desktop\Verbot\Verbot5Engine\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Verbot\Verbot5Engine\obj\Debug\Verbot5Engine.csproj.ResolveComReference.cache

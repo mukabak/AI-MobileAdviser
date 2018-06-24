@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReplacementProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Replacements>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>!:(</TextToFind>
+      <TextForAgent>&lt;agent.play angry&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>8-)</TextToFind>
+      <TextForAgent>&lt;agent.play lookaround&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>Q:)</TextToFind>
+      <TextForAgent>&lt;agent.play quiz&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>q:)</TextToFind>
+      <TextForAgent>&lt;agent.play quiz&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-(</TextToFind>
+      <TextForAgent>&lt;agent.play Sad&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-P</TextToFind>
+      <TextForAgent>&lt;agent.play stickit&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-p</TextToFind>
+      <TextForAgent>&lt;agent.play stickit&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-O</TextToFind>
+      <TextForAgent>&lt;agent.play wow&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-o</TextToFind>
+      <TextForAgent>&lt;agent.play wow&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>!:-(</TextToFind>
+      <TextForAgent>&lt;agent.play angry&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+    <Replacement xsi:type="Replacement">
+      <TextToFind>:-)</TextToFind>
+      <TextForAgent>&lt;agent.play smile&gt;</TextForAgent>
+      <TextForOutput />
+    </Replacement>
+  </Replacements>
+</ReplacementProfile>

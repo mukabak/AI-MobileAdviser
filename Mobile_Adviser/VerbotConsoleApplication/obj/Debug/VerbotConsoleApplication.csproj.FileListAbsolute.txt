@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\bin\Debug\VerbotConsoleApplication.exe
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\bin\Debug\VerbotConsoleApplication.pdb
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\bin\Debug\Verbot5Library.dll
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\bin\Debug\Verbot5Library.pdb
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\obj\Debug\VerbotConsoleApplication.exe
+C:\Users\Admin\Desktop\Verbot\VerbotConsoleApplication\obj\Debug\VerbotConsoleApplication.pdb
